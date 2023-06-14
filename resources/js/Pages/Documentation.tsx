@@ -6,7 +6,8 @@ import ToC from "@/Components/TableOfContents";
 import { Navigation, PageProps, TableOfContents } from "@/types";
 
 import { Head } from "@inertiajs/react";
-import { Fragment } from "react";
+import { Fragment, useEffect } from "react";
+import { useDarkMode } from "usehooks-ts";
 
 function BreadcrumbArrow() {
     return (
@@ -58,6 +59,14 @@ export default function Documentation({
     navigation: Navigation;
     tableOfContents: TableOfContents;
 }>) {
+    const { isDarkMode } = useDarkMode();
+
+    useEffect(() => {
+        if (isDarkMode) {
+            window.document.body.classList.add("dark");
+        }
+    }, [isDarkMode]);
+
     return (
         <>
             <Head title="Welcome" />
