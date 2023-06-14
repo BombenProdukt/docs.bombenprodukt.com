@@ -4,10 +4,6 @@ description: The linkify annotation will replace links with HTML links to the li
 breadcrumbs: [Documentation, Annotations, Linkify]
 ---
 
-::: info
-**Prerequisites:** Components are styled using Tailwind CSS. You need to install Tailwind CSS in your project. Follow the Tailwind CSS installation instructions to get started.
-:::
-
 ```php
 // lighty {"skipLineParsing": true}
 /**

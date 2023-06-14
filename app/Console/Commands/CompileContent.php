@@ -49,6 +49,8 @@ final class CompileContent extends Command
                 continue;
             }
 
+            $this->info("Compiling {$file->getRelativePathname()}");
+
             $files[$file->getRelativePathname()] = $this->compileFile($file->getRelativePathname());
         }
 
