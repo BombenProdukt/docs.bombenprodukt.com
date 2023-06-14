@@ -36,7 +36,7 @@ export default function Content() {
                 role="none"
                 className="my-4 h-[1px] w-full shrink-0 bg-border md:my-6"
             ></div>
-            <div className="prose">
+            <div className="prose dark:prose-invert">
                 <div
                     role="alert"
                     className="not-prose relative w-full rounded-lg border bg-background p-4 text-foreground [&:has(svg)]:pl-11 [&>svg+div]:translate-y-[-3px] [&>svg]:absolute [&>svg]:left-4 [&>svg]:top-4 [&>svg]:text-foreground"

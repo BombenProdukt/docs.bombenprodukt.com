@@ -112,7 +112,7 @@ export default function Documentation({
                                 ></div>
 
                                 <div
-                                    className="prose max-w-full"
+                                    className="max-w-full prose dark:prose-invert"
                                     dangerouslySetInnerHTML={{
                                         __html: content,
                                     }}

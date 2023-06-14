@@ -8,13 +8,13 @@ export function ThemeToggle() {
 
     const toggleTheme = () => {
         if (isDarkMode) {
-            document.body.classList.remove("dark");
-
             disable();
-        } else {
-            document.body.classList.add("dark");
 
+            document.body.classList.remove("dark");
+        } else {
             enable();
+
+            document.body.classList.add("dark");
         }
     };
 
