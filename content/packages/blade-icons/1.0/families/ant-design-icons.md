@@ -1,7 +1,7 @@
 ---
-title: TODO
-description: TODO
-breadcrumbs: [Documentation, Families, TODO]
+title: Ant-Design-Icons
+description: How to install and configure Ant-Design-Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Ant-Design-Icons]
 ---
 
 ## Installation
@@ -13,31 +13,23 @@ This package requires [PHP](https://www.php.net/) 8.2 or later, and it supports 
 To get the latest version, simply require the project using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require bombenprodukt/blade-icons-phosphor-icons
+$ composer require bombenprodukt/blade-icons-ant-design-icons
 ```
 
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `phosphor`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-phosphor-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `ant-design`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-ant-design-icons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component
 
 ```blade
-<x-phosphor:{style}-{icon} />
-```
-
-```blade
-<x-phosphor:regular-flask />
+<x-ant-design:{{ style }}-{{ icon }} />
 ```
 
 ### Dynamic Component
 
 ```blade
-<x-dynamic-component component="phosphor:{{ $style }}-{{ $icon }}" />
-```
-
-```blade
-<x-dynamic-component component="phosphor:regular-flask" />
+<x-dynamic-component component="ant-design:{{ $style }}-{{ $icon }}" />
 ```

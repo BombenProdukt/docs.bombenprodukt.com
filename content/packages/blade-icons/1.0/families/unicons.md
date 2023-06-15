@@ -1,7 +1,7 @@
 ---
-title: TODO
-description: TODO
-breadcrumbs: [Documentation, Families, TODO]
+title: Unicons
+description: How to install and configure Unicons for Blade Icons.
+breadcrumbs: [Documentation, Families, Unicons]
 ---
 
 ## Installation
@@ -13,31 +13,23 @@ This package requires [PHP](https://www.php.net/) 8.2 or later, and it supports 
 To get the latest version, simply require the project using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require bombenprodukt/blade-icons-phosphor-icons
+$ composer require bombenprodukt/blade-icons-unicons
 ```
 
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `phosphor`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-phosphor-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `unicons`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-unicons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component
 
 ```blade
-<x-phosphor:{style}-{icon} />
-```
-
-```blade
-<x-phosphor:regular-flask />
+<x-unicons:{{ style }}-{{ icon }} />
 ```
 
 ### Dynamic Component
 
 ```blade
-<x-dynamic-component component="phosphor:{{ $style }}-{{ $icon }}" />
-```
-
-```blade
-<x-dynamic-component component="phosphor:regular-flask" />
+<x-dynamic-component component="unicons:{{ $style }}-{{ $icon }}" />
 ```

@@ -1,7 +1,7 @@
 ---
-title: TODO
-description: TODO
-breadcrumbs: [Documentation, Families, TODO]
+title: Icomoon-Essential
+description: How to install and configure Icomoon-Essential for Blade Icons.
+breadcrumbs: [Documentation, Families, Icomoon-Essential]
 ---
 
 ## Installation
@@ -13,31 +13,23 @@ This package requires [PHP](https://www.php.net/) 8.2 or later, and it supports 
 To get the latest version, simply require the project using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require bombenprodukt/blade-icons-phosphor-icons
+$ composer require bombenprodukt/blade-icons-icomoon-essential
 ```
 
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `phosphor`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-phosphor-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `icomoon-ultimate`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-icomoon-essential/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component
 
 ```blade
-<x-phosphor:{style}-{icon} />
-```
-
-```blade
-<x-phosphor:regular-flask />
+<x-icomoon-ultimate:{{ style }}-{{ icon }} />
 ```
 
 ### Dynamic Component
 
 ```blade
-<x-dynamic-component component="phosphor:{{ $style }}-{{ $icon }}" />
-```
-
-```blade
-<x-dynamic-component component="phosphor:regular-flask" />
+<x-dynamic-component component="icomoon-ultimate:{{ $style }}-{{ $icon }}" />
 ```

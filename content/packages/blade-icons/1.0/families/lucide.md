@@ -1,7 +1,7 @@
 ---
-title: TODO
-description: TODO
-breadcrumbs: [Documentation, Families, TODO]
+title: Lucide
+description: How to install and configure Lucide for Blade Icons.
+breadcrumbs: [Documentation, Families, Lucide]
 ---
 
 ## Installation
@@ -13,31 +13,23 @@ This package requires [PHP](https://www.php.net/) 8.2 or later, and it supports 
 To get the latest version, simply require the project using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require bombenprodukt/blade-icons-phosphor-icons
+$ composer require bombenprodukt/blade-icons-lucide
 ```
 
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `phosphor`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-phosphor-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `lucide`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-lucide/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component
 
 ```blade
-<x-phosphor:{style}-{icon} />
-```
-
-```blade
-<x-phosphor:regular-flask />
+<x-lucide:{{ style }}-{{ icon }} />
 ```
 
 ### Dynamic Component
 
 ```blade
-<x-dynamic-component component="phosphor:{{ $style }}-{{ $icon }}" />
-```
-
-```blade
-<x-dynamic-component component="phosphor:regular-flask" />
+<x-dynamic-component component="lucide:{{ $style }}-{{ $icon }}" />
 ```

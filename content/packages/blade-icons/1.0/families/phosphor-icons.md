@@ -1,7 +1,7 @@
 ---
-title: TODO
-description: TODO
-breadcrumbs: [Documentation, Families, TODO]
+title: Phosphor-Icons
+description: How to install and configure Phosphor-Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Phosphor-Icons]
 ---
 
 ## Installation
@@ -25,19 +25,11 @@ The prefix for all icon families in this package is `phosphor`. Please refer to 
 ### View Component
 
 ```blade
-<x-phosphor:{style}-{icon} />
-```
-
-```blade
-<x-phosphor:regular-flask />
+<x-phosphor:{{ style }}-{{ icon }} />
 ```
 
 ### Dynamic Component
 
 ```blade
 <x-dynamic-component component="phosphor:{{ $style }}-{{ $icon }}" />
-```
-
-```blade
-<x-dynamic-component component="phosphor:regular-flask" />
 ```
