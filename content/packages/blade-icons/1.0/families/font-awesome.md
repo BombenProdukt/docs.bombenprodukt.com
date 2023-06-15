@@ -1,7 +1,7 @@
 ---
-title: Font-Awesome
-description: How to install and configure Font-Awesome for Blade Icons.
-breadcrumbs: [Documentation, Families, Font-Awesome]
+title: Font Awesome
+description: How to install and configure Font Awesome for Blade Icons.
+breadcrumbs: [Documentation, Families, Font Awesome]
 ---
 
 ## Installation

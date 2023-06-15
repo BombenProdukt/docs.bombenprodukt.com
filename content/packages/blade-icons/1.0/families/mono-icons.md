@@ -1,7 +1,7 @@
 ---
-title: Mono-Icons
-description: How to install and configure Mono-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Mono-Icons]
+title: Mono Icons
+description: How to install and configure Mono Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Mono Icons]
 ---
 
 ## Installation

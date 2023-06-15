@@ -1,7 +1,7 @@
 ---
-title: Fluent-Ui-System-Icons
-description: How to install and configure Fluent-Ui-System-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Fluent-Ui-System-Icons]
+title: Fluent Ui System Icons
+description: How to install and configure Fluent Ui System Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Fluent Ui System Icons]
 ---
 
 ## Installation

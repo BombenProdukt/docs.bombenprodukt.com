@@ -1,7 +1,7 @@
 ---
-title: Prime-Icons
-description: How to install and configure Prime-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Prime-Icons]
+title: Prime Icons
+description: How to install and configure Prime Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Prime Icons]
 ---
 
 ## Installation

@@ -1,7 +1,7 @@
 ---
-title: Simple-Icons
-description: How to install and configure Simple-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Simple-Icons]
+title: Simple Icons
+description: How to install and configure Simple Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Simple Icons]
 ---
 
 ## Installation

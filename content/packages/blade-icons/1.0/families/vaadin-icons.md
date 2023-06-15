@@ -1,7 +1,7 @@
 ---
-title: Vaadin-Icons
-description: How to install and configure Vaadin-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Vaadin-Icons]
+title: Vaadin Icons
+description: How to install and configure Vaadin Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Vaadin Icons]
 ---
 
 ## Installation

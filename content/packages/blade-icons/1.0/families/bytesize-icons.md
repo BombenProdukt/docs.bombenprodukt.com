@@ -1,7 +1,7 @@
 ---
-title: Bytesize-Icons
-description: How to install and configure Bytesize-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Bytesize-Icons]
+title: Bytesize Icons
+description: How to install and configure Bytesize Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Bytesize Icons]
 ---
 
 ## Installation

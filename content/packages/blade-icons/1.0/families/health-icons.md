@@ -1,7 +1,7 @@
 ---
-title: Health-Icons
-description: How to install and configure Health-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Health-Icons]
+title: Health Icons
+description: How to install and configure Health Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Health Icons]
 ---
 
 ## Installation

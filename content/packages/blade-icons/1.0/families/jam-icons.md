@@ -1,7 +1,7 @@
 ---
-title: Jam-Icons
-description: How to install and configure Jam-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Jam-Icons]
+title: Jam Icons
+description: How to install and configure Jam Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Jam Icons]
 ---
 
 ## Installation

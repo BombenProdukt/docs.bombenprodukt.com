@@ -1,7 +1,7 @@
 ---
-title: Evil-Icons
-description: How to install and configure Evil-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Evil-Icons]
+title: Evil Icons
+description: How to install and configure Evil Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Evil Icons]
 ---
 
 ## Installation

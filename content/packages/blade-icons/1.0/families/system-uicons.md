@@ -1,7 +1,7 @@
 ---
-title: System-Uicons
-description: How to install and configure System-Uicons for Blade Icons.
-breadcrumbs: [Documentation, Families, System-Uicons]
+title: System Uicons
+description: How to install and configure System Uicons for Blade Icons.
+breadcrumbs: [Documentation, Families, System Uicons]
 ---
 
 ## Installation

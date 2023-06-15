@@ -1,7 +1,7 @@
 ---
-title: Eos-Icons
-description: How to install and configure Eos-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Eos-Icons]
+title: Eos Icons
+description: How to install and configure Eos Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Eos Icons]
 ---
 
 ## Installation

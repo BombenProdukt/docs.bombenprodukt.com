@@ -1,7 +1,7 @@
 ---
-title: Icomoon-Ultimate
-description: How to install and configure Icomoon-Ultimate for Blade Icons.
-breadcrumbs: [Documentation, Families, Icomoon-Ultimate]
+title: Icomoon Ultimate
+description: How to install and configure Icomoon Ultimate for Blade Icons.
+breadcrumbs: [Documentation, Families, Icomoon Ultimate]
 ---
 
 ## Installation

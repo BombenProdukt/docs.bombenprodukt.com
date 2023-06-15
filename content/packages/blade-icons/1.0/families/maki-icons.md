@@ -1,7 +1,7 @@
 ---
-title: Maki-Icons
-description: How to install and configure Maki-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Maki-Icons]
+title: Maki Icons
+description: How to install and configure Maki Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Maki Icons]
 ---
 
 ## Installation

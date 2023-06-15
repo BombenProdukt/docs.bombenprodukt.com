@@ -1,7 +1,7 @@
 ---
-title: Rpg-Awesome
-description: How to install and configure Rpg-Awesome for Blade Icons.
-breadcrumbs: [Documentation, Families, Rpg-Awesome]
+title: Rpg Awesome
+description: How to install and configure Rpg Awesome for Blade Icons.
+breadcrumbs: [Documentation, Families, Rpg Awesome]
 ---
 
 ## Installation

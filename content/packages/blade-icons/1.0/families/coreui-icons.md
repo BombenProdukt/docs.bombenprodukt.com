@@ -1,7 +1,7 @@
 ---
-title: Coreui-Icons
-description: How to install and configure Coreui-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Coreui-Icons]
+title: Coreui Icons
+description: How to install and configure Coreui Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Coreui Icons]
 ---
 
 ## Installation

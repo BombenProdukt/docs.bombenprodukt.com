@@ -1,7 +1,7 @@
 ---
-title: Clarity-Icons
-description: How to install and configure Clarity-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Clarity-Icons]
+title: Clarity Icons
+description: How to install and configure Clarity Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Clarity Icons]
 ---
 
 ## Installation

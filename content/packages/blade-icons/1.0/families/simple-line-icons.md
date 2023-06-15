@@ -1,7 +1,7 @@
 ---
-title: Simple-Line-Icons
-description: How to install and configure Simple-Line-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Simple-Line-Icons]
+title: Simple Line Icons
+description: How to install and configure Simple Line Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Simple Line Icons]
 ---
 
 ## Installation

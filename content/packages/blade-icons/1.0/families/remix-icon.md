@@ -1,7 +1,7 @@
 ---
-title: Remix-Icon
-description: How to install and configure Remix-Icon for Blade Icons.
-breadcrumbs: [Documentation, Families, Remix-Icon]
+title: Remix Icon
+description: How to install and configure Remix Icon for Blade Icons.
+breadcrumbs: [Documentation, Families, Remix Icon]
 ---
 
 ## Installation

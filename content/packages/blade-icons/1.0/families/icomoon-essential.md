@@ -1,7 +1,7 @@
 ---
-title: Icomoon-Essential
-description: How to install and configure Icomoon-Essential for Blade Icons.
-breadcrumbs: [Documentation, Families, Icomoon-Essential]
+title: Icomoon Essential
+description: How to install and configure Icomoon Essential for Blade Icons.
+breadcrumbs: [Documentation, Families, Icomoon Essential]
 ---
 
 ## Installation

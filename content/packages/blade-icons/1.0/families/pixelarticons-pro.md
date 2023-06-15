@@ -1,7 +1,7 @@
 ---
-title: Pixelarticons-Pro
-description: How to install and configure Pixelarticons-Pro for Blade Icons.
-breadcrumbs: [Documentation, Families, Pixelarticons-Pro]
+title: Pixelarticons Pro
+description: How to install and configure Pixelarticons Pro for Blade Icons.
+breadcrumbs: [Documentation, Families, Pixelarticons Pro]
 ---
 
 ## Installation

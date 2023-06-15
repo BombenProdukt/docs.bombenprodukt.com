@@ -1,7 +1,7 @@
 ---
-title: Eva-Icons
-description: How to install and configure Eva-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Eva-Icons]
+title: Eva Icons
+description: How to install and configure Eva Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Eva Icons]
 ---
 
 ## Installation

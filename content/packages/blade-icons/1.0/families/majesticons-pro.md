@@ -1,7 +1,7 @@
 ---
-title: Majesticons-Pro
-description: How to install and configure Majesticons-Pro for Blade Icons.
-breadcrumbs: [Documentation, Families, Majesticons-Pro]
+title: Majesticons Pro
+description: How to install and configure Majesticons Pro for Blade Icons.
+breadcrumbs: [Documentation, Families, Majesticons Pro]
 ---
 
 ## Installation

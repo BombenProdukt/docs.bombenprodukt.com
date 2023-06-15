@@ -1,7 +1,7 @@
 ---
-title: Phosphor-Flat-Icons
-description: How to install and configure Phosphor-Flat-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Phosphor-Flat-Icons]
+title: Phosphor Flat Icons
+description: How to install and configure Phosphor Flat Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Phosphor Flat Icons]
 ---
 
 ## Installation

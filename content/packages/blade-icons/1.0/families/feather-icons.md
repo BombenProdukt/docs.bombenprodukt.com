@@ -1,7 +1,7 @@
 ---
-title: Feather-Icons
-description: How to install and configure Feather-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Feather-Icons]
+title: Feather Icons
+description: How to install and configure Feather Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Feather Icons]
 ---
 
 ## Installation

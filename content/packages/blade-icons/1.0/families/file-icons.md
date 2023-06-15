@@ -1,7 +1,7 @@
 ---
-title: File-Icons
-description: How to install and configure File-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, File-Icons]
+title: File Icons
+description: How to install and configure File Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, File Icons]
 ---
 
 ## Installation

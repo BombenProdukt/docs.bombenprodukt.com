@@ -1,7 +1,7 @@
 ---
-title: Yr-Weather
-description: How to install and configure Yr-Weather for Blade Icons.
-breadcrumbs: [Documentation, Families, Yr-Weather]
+title: Yr Weather
+description: How to install and configure Yr Weather for Blade Icons.
+breadcrumbs: [Documentation, Families, Yr Weather]
 ---
 
 ## Installation

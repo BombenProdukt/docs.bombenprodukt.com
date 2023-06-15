@@ -34,7 +34,7 @@ final class GenerateBladeIconsFamilies extends Command
                 base_path('content/packages/blade-icons/1.0/families/'.$family['family'].'.md'),
                 Str::replace(
                     ['{{ title }}', '{{ family }}', '{{ prefix }}'],
-                    [Str::title($family['family']), $family['family'], $family['prefix']],
+                    [Str::headline($family['family']), $family['family'], $family['prefix']],
                     File::get(base_path('stubs/blade-icons-family.stub')),
                 ),
             );

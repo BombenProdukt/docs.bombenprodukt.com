@@ -1,7 +1,7 @@
 ---
-title: Line-Awesome
-description: How to install and configure Line-Awesome for Blade Icons.
-breadcrumbs: [Documentation, Families, Line-Awesome]
+title: Line Awesome
+description: How to install and configure Line Awesome for Blade Icons.
+breadcrumbs: [Documentation, Families, Line Awesome]
 ---
 
 ## Installation

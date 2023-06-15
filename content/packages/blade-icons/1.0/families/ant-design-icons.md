@@ -1,7 +1,7 @@
 ---
-title: Ant-Design-Icons
-description: How to install and configure Ant-Design-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Ant-Design-Icons]
+title: Ant Design Icons
+description: How to install and configure Ant Design Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Ant Design Icons]
 ---
 
 ## Installation

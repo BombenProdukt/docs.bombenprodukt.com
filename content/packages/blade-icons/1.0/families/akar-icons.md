@@ -1,7 +1,7 @@
 ---
-title: Akar-Icons
-description: How to install and configure Akar-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Akar-Icons]
+title: Akar Icons
+description: How to install and configure Akar Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Akar Icons]
 ---
 
 ## Installation

@@ -1,7 +1,7 @@
 ---
-title: Flag-Icons
-description: How to install and configure Flag-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Flag-Icons]
+title: Flag Icons
+description: How to install and configure Flag Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Flag Icons]
 ---
 
 ## Installation

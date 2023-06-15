@@ -1,7 +1,7 @@
 ---
-title: Css-Icons
-description: How to install and configure Css-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Css-Icons]
+title: Css Icons
+description: How to install and configure Css Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Css Icons]
 ---
 
 ## Installation

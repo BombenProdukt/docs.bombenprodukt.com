@@ -1,7 +1,7 @@
 ---
-title: Tabler-Icons
-description: How to install and configure Tabler-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Tabler-Icons]
+title: Tabler Icons
+description: How to install and configure Tabler Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Tabler Icons]
 ---
 
 ## Installation

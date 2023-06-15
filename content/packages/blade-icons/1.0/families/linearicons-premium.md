@@ -1,7 +1,7 @@
 ---
-title: Linearicons-Premium
-description: How to install and configure Linearicons-Premium for Blade Icons.
-breadcrumbs: [Documentation, Families, Linearicons-Premium]
+title: Linearicons Premium
+description: How to install and configure Linearicons Premium for Blade Icons.
+breadcrumbs: [Documentation, Families, Linearicons Premium]
 ---
 
 ## Installation

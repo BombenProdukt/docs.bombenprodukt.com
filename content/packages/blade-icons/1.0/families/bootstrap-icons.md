@@ -1,7 +1,7 @@
 ---
-title: Bootstrap-Icons
-description: How to install and configure Bootstrap-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Bootstrap-Icons]
+title: Bootstrap Icons
+description: How to install and configure Bootstrap Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Bootstrap Icons]
 ---
 
 ## Installation

@@ -1,7 +1,7 @@
 ---
-title: Cryptocurrency-Icons
-description: How to install and configure Cryptocurrency-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Cryptocurrency-Icons]
+title: Cryptocurrency Icons
+description: How to install and configure Cryptocurrency Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Cryptocurrency Icons]
 ---
 
 ## Installation

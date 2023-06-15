@@ -1,7 +1,7 @@
 ---
-title: Polaris-Icons
-description: How to install and configure Polaris-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Polaris-Icons]
+title: Polaris Icons
+description: How to install and configure Polaris Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Polaris Icons]
 ---
 
 ## Installation

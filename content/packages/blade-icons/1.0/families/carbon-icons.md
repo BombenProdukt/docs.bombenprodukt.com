@@ -1,7 +1,7 @@
 ---
-title: Carbon-Icons
-description: How to install and configure Carbon-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Carbon-Icons]
+title: Carbon Icons
+description: How to install and configure Carbon Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Carbon Icons]
 ---
 
 ## Installation

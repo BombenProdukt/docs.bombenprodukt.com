@@ -1,7 +1,7 @@
 ---
-title: Weather-Icons
-description: How to install and configure Weather-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Weather-Icons]
+title: Weather Icons
+description: How to install and configure Weather Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Weather Icons]
 ---
 
 ## Installation

@@ -1,7 +1,7 @@
 ---
-title: Radix-Icons
-description: How to install and configure Radix-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Radix-Icons]
+title: Radix Icons
+description: How to install and configure Radix Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Radix Icons]
 ---
 
 ## Installation

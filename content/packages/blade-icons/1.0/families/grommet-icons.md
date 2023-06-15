@@ -1,7 +1,7 @@
 ---
-title: Grommet-Icons
-description: How to install and configure Grommet-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Grommet-Icons]
+title: Grommet Icons
+description: How to install and configure Grommet Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Grommet Icons]
 ---
 
 ## Installation

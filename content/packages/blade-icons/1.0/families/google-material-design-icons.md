@@ -1,7 +1,7 @@
 ---
-title: Google-Material-Design-Icons
-description: How to install and configure Google-Material-Design-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Google-Material-Design-Icons]
+title: Google Material Design Icons
+description: How to install and configure Google Material Design Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Google Material Design Icons]
 ---
 
 ## Installation

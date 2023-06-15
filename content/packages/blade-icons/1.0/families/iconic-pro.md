@@ -1,7 +1,7 @@
 ---
-title: Iconic-Pro
-description: How to install and configure Iconic-Pro for Blade Icons.
-breadcrumbs: [Documentation, Families, Iconic-Pro]
+title: Iconic Pro
+description: How to install and configure Iconic Pro for Blade Icons.
+breadcrumbs: [Documentation, Families, Iconic Pro]
 ---
 
 ## Installation

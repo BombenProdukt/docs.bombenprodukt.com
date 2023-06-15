@@ -1,7 +1,7 @@
 ---
-title: Fork-Awesome
-description: How to install and configure Fork-Awesome for Blade Icons.
-breadcrumbs: [Documentation, Families, Fork-Awesome]
+title: Fork Awesome
+description: How to install and configure Fork Awesome for Blade Icons.
+breadcrumbs: [Documentation, Families, Fork Awesome]
 ---
 
 ## Installation

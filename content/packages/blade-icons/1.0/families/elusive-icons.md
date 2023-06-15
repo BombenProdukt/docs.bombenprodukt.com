@@ -1,7 +1,7 @@
 ---
-title: Elusive-Icons
-description: How to install and configure Elusive-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Elusive-Icons]
+title: Elusive Icons
+description: How to install and configure Elusive Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Elusive Icons]
 ---
 
 ## Installation

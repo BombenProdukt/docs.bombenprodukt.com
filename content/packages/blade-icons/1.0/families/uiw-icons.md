@@ -1,7 +1,7 @@
 ---
-title: Uiw-Icons
-description: How to install and configure Uiw-Icons for Blade Icons.
-breadcrumbs: [Documentation, Families, Uiw-Icons]
+title: Uiw Icons
+description: How to install and configure Uiw Icons for Blade Icons.
+breadcrumbs: [Documentation, Families, Uiw Icons]
 ---
 
 ## Installation
