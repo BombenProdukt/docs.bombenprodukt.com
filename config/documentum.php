@@ -186,5 +186,38 @@ return [
                 ],
             ],
         ],
+        'laravel-json-rpc' => [
+            '1.0' => [
+                'navigation' => [
+                    'main' => [
+                        [
+                            'name' => 'Installation',
+                            'href' => '/packages/laravel-json-rpc/1.0/installation',
+                        ],
+                        [
+                            'name' => 'Configuration',
+                            'href' => '/packages/laravel-json-rpc/1.0/configuration',
+                        ],
+                    ],
+                    'sidebar' => [
+                        [
+                            'title' => 'Getting Started',
+                            'items' => [
+                                ['name' => 'Installation', 'href' => '/packages/laravel-json-rpc/1.0/installation'],
+                                ['name' => 'Configuration', 'href' => '/packages/laravel-json-rpc/1.0/configuration'],
+                            ],
+                        ],
+                        [
+                            'title' => 'Digging Deeper',
+                            'items' => [
+                                ['name' => 'Servers', 'href' => '/packages/laravel-json-rpc/1.0/servers'],
+                                ['name' => 'Procedures', 'href' => '/packages/laravel-json-rpc/1.0/procedures'],
+                                ['name' => 'Requests', 'href' => '/packages/laravel-json-rpc/1.0/requests'],
+                            ],
+                        ],
+                    ],
+                ],
+            ],
+        ],
     ],
 ];
