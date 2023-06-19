@@ -8,6 +8,8 @@ Once you have your JSON-RPC API up and running, you can start sending requests t
 
 ## JSON-RPC Client
 
+### Usage
+
 You can create a client by using the `BombenProdukt\JsonRpc\Client\Client` class.
 
 ```php
@@ -36,6 +38,32 @@ $responseObjects = $client->request();
 ```
 
 Note that the `request` method will return an array of `BombenProdukt\JsonRpc\Client\ResponseObject` objects. Each response object will contain the response for the request that was sent.
+
+### Request Object Helpers
+
+The `BombenProdukt\JsonRpc\Model\RequestObject` class provides several helper methods that aid in the creation of request objects. Two of these methods are `asRequest` and `asNotification`.
+
+The `asRequest` method crafts a request object, which expects a response from the server. On the other hand, the `asNotification` method generates a request object that does not anticipate a response from the server.
+
+#### Request
+
+The `asRequest` method accepts three parameters. The first parameter is the method name. The second parameter is the parameters that should be sent to the server. The third parameter is the ID of the request object and is optional.
+
+```php
+$client->add(RequestObject::asRequest('subtract', [42, 23]));
+```
+
+```php
+$client->add(RequestObject::asRequest('subtract', [42, 23], 'id'));
+```
+
+#### Notification
+
+The `asNotification` method accepts two parameters. The first parameter is the method name. The second parameter is the parameters that should be sent to the server.
+
+```php
+$client->add(RequestObject::asNotification('update', [1, 2, 3, 4, 5]));
+```
 
 ## JSON-RPC Call Examples
 
