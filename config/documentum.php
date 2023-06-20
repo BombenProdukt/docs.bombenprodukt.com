@@ -208,11 +208,19 @@ return [
                             ],
                         ],
                         [
-                            'title' => 'Digging Deeper',
+                            'title' => 'The Basics',
                             'items' => [
                                 ['name' => 'Servers', 'href' => '/packages/laravel-json-rpc/1.0/servers'],
                                 ['name' => 'Procedures', 'href' => '/packages/laravel-json-rpc/1.0/procedures'],
                                 ['name' => 'Requests', 'href' => '/packages/laravel-json-rpc/1.0/requests'],
+                            ],
+                        ],
+                        [
+                            'title' => 'Digging Deeper',
+                            'items' => [
+                                ['name' => 'Authentication', 'href' => '/packages/laravel-json-rpc/1.0/authentication'],
+                                ['name' => 'Error Handling', 'href' => '/packages/laravel-json-rpc/1.0/error-handling'],
+                                ['name' => 'Validation', 'href' => '/packages/laravel-json-rpc/1.0/validation'],
                             ],
                         ],
                     ],
