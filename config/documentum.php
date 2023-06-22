@@ -114,6 +114,126 @@ return [
                 ],
             ],
         ],
+        'laravel-arch' => [
+            '1.0' => [
+                'navigation' => [
+                    'main' => [
+                        [
+                            'name' => 'Installation',
+                            'href' => '/packages/laravel-arch/1.0/installation',
+                        ],
+                        [
+                            'name' => 'Configuration',
+                            'href' => '/packages/laravel-arch/1.0/configuration',
+                        ],
+                        [
+                            'name' => 'Annotations',
+                            'href' => '/packages/laravel-arch/1.0/annotations/ranges',
+                        ],
+                        [
+                            'name' => 'GitHub',
+                            'href' => 'https://github.com/BombenProdukt/laravel-arch',
+                            'external' => true,
+                        ],
+                    ],
+                    'sidebar' => [
+                        [
+                            'title' => 'Getting Started',
+                            'items' => [
+                                ['name' => 'Installation', 'href' => '/packages/laravel-arch/1.0/installation'],
+                                ['name' => 'Configuration', 'href' => '/packages/laravel-arch/1.0/configuration'],
+                            ],
+                        ],
+                        [
+                            'title' => 'Core Concepts',
+                            'items' => [
+                                ['name' => 'Environment', 'href' => '/packages/laravel-arch/1.0/core-concepts/environment'],
+                                ['name' => 'Extension', 'href' => '/packages/laravel-arch/1.0/core-concepts/extension'],
+                                ['name' => 'Generator', 'href' => '/packages/laravel-arch/1.0/core-concepts/generator'],
+                                ['name' => 'Parser', 'href' => '/packages/laravel-arch/1.0/core-concepts/parser'],
+                                ['name' => 'Renderer', 'href' => '/packages/laravel-arch/1.0/core-concepts/renderer'],
+                                ['name' => 'Reporter', 'href' => '/packages/laravel-arch/1.0/core-concepts/reporter'],
+                                ['name' => 'Statement', 'href' => '/packages/laravel-arch/1.0/core-concepts/statement'],
+                                ['name' => 'Tokenizer', 'href' => '/packages/laravel-arch/1.0/core-concepts/tokenizer'],
+                                ['name' => 'Tree', 'href' => '/packages/laravel-arch/1.0/core-concepts/tree'],
+                            ],
+                        ],
+                        [
+                            'title' => 'The Basics',
+                            'items' => [
+                                ['name' => 'Building Manifests', 'href' => '/packages/laravel-arch/1.0/the-basics/building-manifests'],
+                                ['name' => 'Running Commands', 'href' => '/packages/laravel-arch/1.0/the-basics/running-commands'],
+                            ],
+                        ],
+                        [
+                            'title' => 'Digging Deeper',
+                            'items' => [
+                                ['name' => 'Creating an Extension', 'href' => '/packages/laravel-arch/1.0/digging-deeper/creating-an-extension'],
+                            ],
+                        ],
+                        [
+                            'title' => 'The Generators',
+                            'items' => [
+                                ['name' => 'Casts', 'href' => '/packages/laravel-arch/1.0/generators/casts'],
+                                ['name' => 'Commands', 'href' => '/packages/laravel-arch/1.0/generators/commands'],
+                                ['name' => 'Controllers', 'href' => '/packages/laravel-arch/1.0/generators/controllers'],
+                                ['name' => 'Events', 'href' => '/packages/laravel-arch/1.0/generators/events'],
+                                ['name' => 'Factories', 'href' => '/packages/laravel-arch/1.0/generators/factories'],
+                                ['name' => 'Form Requests', 'href' => '/packages/laravel-arch/1.0/generators/form-requests'],
+                                ['name' => 'Global Scopes', 'href' => '/packages/laravel-arch/1.0/generators/global-scopes'],
+                                ['name' => 'Jobs', 'href' => '/packages/laravel-arch/1.0/generators/jobs'],
+                                ['name' => 'Livewire', 'href' => '/packages/laravel-arch/1.0/generators/livewire'],
+                                ['name' => 'Mails', 'href' => '/packages/laravel-arch/1.0/generators/mails'],
+                                ['name' => 'Middleware', 'href' => '/packages/laravel-arch/1.0/generators/middleware'],
+                                ['name' => 'Migrations', 'href' => '/packages/laravel-arch/1.0/generators/migrations'],
+                                ['name' => 'Models', 'href' => '/packages/laravel-arch/1.0/generators/models'],
+                                ['name' => 'Notifications', 'href' => '/packages/laravel-arch/1.0/generators/notifications'],
+                                ['name' => 'Nova Actions', 'href' => '/packages/laravel-arch/1.0/generators/nova/actions'],
+                                ['name' => 'Nova Dashboards', 'href' => '/packages/laravel-arch/1.0/generators/nova/dashboards'],
+                                ['name' => 'Nova Filters', 'href' => '/packages/laravel-arch/1.0/generators/nova/filters'],
+                                ['name' => 'Nova Lenses', 'href' => '/packages/laravel-arch/1.0/generators/nova/lenses'],
+                                ['name' => 'Nova Metrics', 'href' => '/packages/laravel-arch/1.0/generators/nova/metrics'],
+                                ['name' => 'Nova Resources', 'href' => '/packages/laravel-arch/1.0/generators/nova/resources'],
+                                ['name' => 'Observers', 'href' => '/packages/laravel-arch/1.0/generators/observers'],
+                                ['name' => 'Pivots', 'href' => '/packages/laravel-arch/1.0/generators/pivots'],
+                                ['name' => 'Policies', 'href' => '/packages/laravel-arch/1.0/generators/policies'],
+                                ['name' => 'Resources', 'href' => '/packages/laravel-arch/1.0/generators/resources'],
+                                ['name' => 'Resource Collections', 'href' => '/packages/laravel-arch/1.0/generators/resource-collections'],
+                                ['name' => 'Routes', 'href' => '/packages/laravel-arch/1.0/generators/routes'],
+                                ['name' => 'Rules', 'href' => '/packages/laravel-arch/1.0/generators/rules'],
+                                ['name' => 'Seeders', 'href' => '/packages/laravel-arch/1.0/generators/seeders'],
+                                ['name' => 'Service Providers', 'href' => '/packages/laravel-arch/1.0/generators/service-providers'],
+                                ['name' => 'Views', 'href' => '/packages/laravel-arch/1.0/generators/views'],
+                                ['name' => 'View Components', 'href' => '/packages/laravel-arch/1.0/generators/view-components'],
+                                ['name' => 'View Composers', 'href' => '/packages/laravel-arch/1.0/generators/view-composers'],
+                            ],
+                        ],
+                        [
+                            'title' => 'The Statements',
+                            'items' => [
+                                ['name' => 'Action Redirect', 'href' => '/packages/laravel-arch/1.0/statements/action-redirect'],
+                                ['name' => 'Authorize', 'href' => '/packages/laravel-arch/1.0/statements/authorize'],
+                                ['name' => 'Dispatch', 'href' => '/packages/laravel-arch/1.0/statements/dispatch'],
+                                ['name' => 'Eloquent', 'href' => '/packages/laravel-arch/1.0/statements/eloquent'],
+                                ['name' => 'Fire', 'href' => '/packages/laravel-arch/1.0/statements/fire'],
+                                ['name' => 'Inertia Render', 'href' => '/packages/laravel-arch/1.0/statements/inertia/render'],
+                                ['name' => 'Mail', 'href' => '/packages/laravel-arch/1.0/statements/mail'],
+                                ['name' => 'Notification', 'href' => '/packages/laravel-arch/1.0/statements/notification'],
+                                ['name' => 'Notify', 'href' => '/packages/laravel-arch/1.0/statements/notify'],
+                                ['name' => 'Query', 'href' => '/packages/laravel-arch/1.0/statements/query'],
+                                ['name' => 'Resource', 'href' => '/packages/laravel-arch/1.0/statements/resource'],
+                                ['name' => 'Resource Collection', 'href' => '/packages/laravel-arch/1.0/statements/resource-collection'],
+                                ['name' => 'Respond', 'href' => '/packages/laravel-arch/1.0/statements/respond'],
+                                ['name' => 'Route Redirect', 'href' => '/packages/laravel-arch/1.0/statements/route-redirect'],
+                                ['name' => 'Session', 'href' => '/packages/laravel-arch/1.0/statements/session'],
+                                ['name' => 'Validate', 'href' => '/packages/laravel-arch/1.0/statements/validate'],
+                                ['name' => 'View', 'href' => '/packages/laravel-arch/1.0/statements/view'],
+                            ],
+                        ],
+                    ],
+                ],
+            ],
+        ],
         'laravel-lighty' => [
             '1.0' => [
                 'navigation' => [

@@ -16,6 +16,7 @@ use League\CommonMark\CommonMarkConverter;
 use League\CommonMark\ConverterInterface;
 use League\CommonMark\Extension\CommonMark\Node\Block\FencedCode;
 use League\CommonMark\Extension\CommonMark\Node\Block\Heading;
+use League\CommonMark\Extension\CommonMark\Node\Inline\Link;
 use League\CommonMark\Extension\HeadingPermalink\HeadingPermalinkExtension;
 use League\CommonMark\Node\NodeIterator;
 use League\CommonMark\Parser\MarkdownParser;
@@ -84,11 +85,23 @@ final class CompileContent extends Command
 
         return collect($parser->parse($body)->iterator(NodeIterator::FLAG_BLOCKS_ONLY))
             ->filter(fn ($node) => $node instanceof Heading)
-            ->map(fn (Heading $node) => [
-                'name' => $name = $node->firstChild()->getLiteral(),
-                'href' => Str::of($name)->lower()->kebab()->toString(),
-                'level' => $node->getLevel(),
-            ])
+            ->map(function (Heading $node): array {
+                $firstChild = $node->firstChild();
+
+                if ($firstChild instanceof Link) {
+                    $name = $firstChild->getTitle();
+                    $href = $firstChild->getUrl();
+                } else {
+                    $name = $firstChild->getLiteral();
+                    $href = Str::of($name)->lower()->kebab()->toString();
+                }
+
+                return [
+                    'name' => $name,
+                    'href' => $href,
+                    'level' => $node->getLevel(),
+                ];
+            })
             ->values()
             ->toArray();
     }
