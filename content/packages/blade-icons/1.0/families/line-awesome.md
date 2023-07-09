@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-line-awesome
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `line-awesome`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-line-awesome/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `line-awesome`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-line-awesome/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

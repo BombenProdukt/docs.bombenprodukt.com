@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-linearicons-premium
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `linearicons`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-linearicons-premium/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `linearicons`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-linearicons-premium/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

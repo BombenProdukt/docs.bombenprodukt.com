@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-vaadin-icons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `vaadin`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-vaadin-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `vaadin`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-vaadin-icons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

@@ -9,7 +9,7 @@ export default function Footer() {
                     <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
                         Built by{" "}
                         <a
-                            href="https://github.com/BombenProdukt"
+                            href="https://github.com/faustbrian"
                             target="_blank"
                             rel="noreferrer"
                             className="font-medium underline underline-offset-4"
@@ -18,7 +18,7 @@ export default function Footer() {
                         </a>
                         . The source code is available on{" "}
                         <a
-                            href="https://github.com/BombenProdukt/laravel-lighty"
+                            href="https://github.com/faustbrian/laravel-lighty"
                             target="_blank"
                             rel="noreferrer"
                             className="font-medium underline underline-offset-4"

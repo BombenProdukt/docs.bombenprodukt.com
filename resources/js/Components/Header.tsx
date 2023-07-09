@@ -22,7 +22,7 @@ export default function Header({ navigation }: { navigation: Navigation }) {
 
                     <nav className="flex items-center space-x-1">
                         <a
-                            href="https://github.com/BombenProdukt/laravel-lighty"
+                            href="https://github.com/faustbrian/laravel-lighty"
                             target="_blank"
                             rel="noreferrer"
                         >

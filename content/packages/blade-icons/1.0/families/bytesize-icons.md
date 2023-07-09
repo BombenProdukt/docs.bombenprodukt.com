@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-bytesize-icons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `bytesize`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-bytesize-icons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `bytesize`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-bytesize-icons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

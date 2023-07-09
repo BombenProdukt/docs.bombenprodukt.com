@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-heroicons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `heroicons`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-heroicons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `heroicons`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-heroicons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

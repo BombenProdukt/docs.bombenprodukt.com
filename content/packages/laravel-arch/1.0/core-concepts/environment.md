@@ -61,4 +61,4 @@ final readonly class LaravelExtension implements ExtensionInterface
 
 ## References
 
-- [Environment](https://github.com/BombenProdukt/laravel-arch/blob/main/src/Environment/Environment.php)
+- [Environment](https://github.com/faustbrian/laravel-arch/blob/main/src/Environment/Environment.php)

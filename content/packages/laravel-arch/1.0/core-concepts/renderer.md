@@ -43,9 +43,9 @@ final readonly class StubClassRenderer implements ClassRendererInterface
 
 ### References
 
-- [BladeClassRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/BladeClassRenderer.php)
-- [StubClassRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/StubClassRenderer.php)
-- [TwigClassRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/TwigClassRenderer.php)
+- [BladeClassRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/BladeClassRenderer.php)
+- [StubClassRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/StubClassRenderer.php)
+- [TwigClassRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/TwigClassRenderer.php)
 
 ## File Renderer
 
@@ -86,9 +86,9 @@ final readonly class StubFileRenderer implements FileRendererInterface
 
 ### References
 
-- [BladeFileRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/BladeFileRenderer.php)
-- [StubFileRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/StubFileRenderer.php)
-- [TwigFileRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/TwigFileRenderer.php)
+- [BladeFileRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/BladeFileRenderer.php)
+- [StubFileRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/StubFileRenderer.php)
+- [TwigFileRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/TwigFileRenderer.php)
 
 ## String Renderer
 
@@ -132,6 +132,6 @@ final readonly class StubStringRenderer implements StringRendererInterface
 
 ### References
 
-- [BladeStringRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/BladeStringRenderer.php)
-- [StubStringRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/StubStringRenderer.php)
-- [TwigStringRenderer](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Renderer/TwigStringRenderer.php)
+- [BladeStringRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/BladeStringRenderer.php)
+- [StubStringRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/StubStringRenderer.php)
+- [TwigStringRenderer](https://github.com/faustbrian/laravel-arch/tree/main/src/Renderer/TwigStringRenderer.php)

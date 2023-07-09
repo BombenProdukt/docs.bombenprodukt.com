@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-twemoji
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `twemoji`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-twemoji/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `twemoji`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-twemoji/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

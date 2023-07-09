@@ -73,5 +73,5 @@ final readonly class YamlReporter implements ReporterInterface
 
 ## References
 
-- [JsonReporter](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Reporter/JsonReporter.php)
-- [YamlReporter](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Reporter/YamlReporter.php)
+- [JsonReporter](https://github.com/faustbrian/laravel-arch/tree/main/src/Reporter/JsonReporter.php)
+- [YamlReporter](https://github.com/faustbrian/laravel-arch/tree/main/src/Reporter/YamlReporter.php)

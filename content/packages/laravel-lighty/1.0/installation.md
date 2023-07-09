@@ -33,5 +33,5 @@ using:
 ```
 
 That's it! You're ready to go. If you have any questions, please feel free to
-[open a discussion](https://github.com/BombenProdukt/laravel-lighty/discussions/new/choose)
+[open a discussion](https://github.com/faustbrian/laravel-lighty/discussions/new/choose)
 on GitHub.

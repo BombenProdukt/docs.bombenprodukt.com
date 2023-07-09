@@ -56,5 +56,5 @@ final readonly class YamlParser implements ParserInterface
 
 ## References
 
-- [JsonParser](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Parser/JsonParser.php)
-- [YamlParser](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Parser/YamlParser.php)
+- [JsonParser](https://github.com/faustbrian/laravel-arch/tree/main/src/Parser/JsonParser.php)
+- [YamlParser](https://github.com/faustbrian/laravel-arch/tree/main/src/Parser/YamlParser.php)

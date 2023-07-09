@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-codicons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `codicons`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-codicons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `codicons`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-codicons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

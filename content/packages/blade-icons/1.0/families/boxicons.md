@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-boxicons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `boxicons`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-boxicons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `boxicons`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-boxicons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

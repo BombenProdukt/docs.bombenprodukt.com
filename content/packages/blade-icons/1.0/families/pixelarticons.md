@@ -19,7 +19,7 @@ $ composer require bombenprodukt/blade-icons-pixelarticons
 ## Usage
 
 ::: info
-The prefix for all icon families in this package is `pixelarticons-pro`. Please refer to the [resources/svg](https://github.com/BombenProdukt/blade-icons-pixelarticons/tree/main/resources/svg) directory for a list of available styles and icons.
+The prefix for all icon families in this package is `pixelarticons-pro`. Please refer to the [resources/svg](https://github.com/faustbrian/blade-icons-pixelarticons/tree/main/resources/svg) directory for a list of available styles and icons.
 :::
 
 ### View Component

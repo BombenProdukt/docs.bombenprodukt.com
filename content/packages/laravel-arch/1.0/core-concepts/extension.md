@@ -8,7 +8,7 @@ Extensions are a way to extend the package with your own generators and tokenize
 
 ## Configuration
 
-In order to use extensions, you need to register them in the `config/arch.php` file. The `extensions` key is an array of fully qualified class names that implements the `BombenProdukt\Arch\Extension\ExtensionInterface` interface. You can review the contents of the `config/arch.php` file [here](https://github.com/BombenProdukt/laravel-arch/blob/main/config/arch.php#L136-L149).
+In order to use extensions, you need to register them in the `config/arch.php` file. The `extensions` key is an array of fully qualified class names that implements the `BombenProdukt\Arch\Extension\ExtensionInterface` interface. You can review the contents of the `config/arch.php` file [here](https://github.com/faustbrian/laravel-arch/blob/main/config/arch.php#L136-L149).
 
 ## Interface
 
@@ -62,7 +62,7 @@ final readonly class LaravelExtension implements ExtensionInterface
 
 ## References
 
-- [InertiaExtension](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Extension/InertiaExtension.php)
-- [Laravel/NovaExtension](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Extension/Laravel/NovaExtension.php)
-- [LaravelExtension](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Extension/LaravelExtension.php)
-- [LivewireExtension](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Extension/LivewireExtension.php)
+- [InertiaExtension](https://github.com/faustbrian/laravel-arch/tree/main/src/Extension/InertiaExtension.php)
+- [Laravel/NovaExtension](https://github.com/faustbrian/laravel-arch/tree/main/src/Extension/Laravel/NovaExtension.php)
+- [LaravelExtension](https://github.com/faustbrian/laravel-arch/tree/main/src/Extension/LaravelExtension.php)
+- [LivewireExtension](https://github.com/faustbrian/laravel-arch/tree/main/src/Extension/LivewireExtension.php)

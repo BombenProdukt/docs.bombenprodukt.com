@@ -96,4 +96,4 @@ final class ArrayTree implements TreeInterface
 
 ## References
 
-- [ArrayTree](https://github.com/BombenProdukt/laravel-arch/tree/main/src/Tree/ArrayTree.php)
+- [ArrayTree](https://github.com/faustbrian/laravel-arch/tree/main/src/Tree/ArrayTree.php)

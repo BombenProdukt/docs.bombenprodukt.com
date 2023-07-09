@@ -14,7 +14,7 @@ return [
                         ],
                         [
                             'name' => 'GitHub',
-                            'href' => 'https://github.com/BombenProdukt/blade-icons',
+                            'href' => 'https://github.com/faustbrian/blade-icons',
                             'external' => true,
                         ],
                     ],
@@ -132,7 +132,7 @@ return [
                         ],
                         [
                             'name' => 'GitHub',
-                            'href' => 'https://github.com/BombenProdukt/laravel-arch',
+                            'href' => 'https://github.com/faustbrian/laravel-arch',
                             'external' => true,
                         ],
                     ],
@@ -252,7 +252,7 @@ return [
                         ],
                         [
                             'name' => 'GitHub',
-                            'href' => 'https://github.com/BombenProdukt/laravel-lighty',
+                            'href' => 'https://github.com/faustbrian/laravel-lighty',
                             'external' => true,
                         ],
                     ],

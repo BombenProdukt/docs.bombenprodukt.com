@@ -10,7 +10,7 @@ Arch comes with a configuration file that you can publish with the following com
 $ php artisan vendor:publish --tag="laravel-arch-config"
 ```
 
-The published configuration file can be found at `config/arch.php`. You can review its contents via the following link: [BombenProdukt/laravel-arch/config/arch.php](https://github.com/BombenProdukt/laravel-arch/blob/main/config/arch.php). Upon first glance, you'll see that the configuration file solely contains a call to the [Configuration](https://github.com/BombenProdukt/laravel-arch/blob/main/src/Configuration.php) class.
+The published configuration file can be found at `config/arch.php`. You can review its contents via the following link: [BombenProdukt/laravel-arch/config/arch.php](https://github.com/faustbrian/laravel-arch/blob/main/config/arch.php). Upon first glance, you'll see that the configuration file solely contains a call to the [Configuration](https://github.com/faustbrian/laravel-arch/blob/main/src/Configuration.php) class.
 
 The minimalist design of the configuration file is intentional. All configuration values are set in the `Configuration` class, simplifying the management of these values. This setup also facilitates your review of the configuration values.
 
